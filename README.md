@@ -6,3 +6,5 @@ The program can do the following:
 - Start a new game
 - Reset the board
 - Exit out of the application
+
+![ss](https://user-images.githubusercontent.com/26498849/43358257-a5ef0358-92e2-11e8-8c88-d06ff50efd82.JPG)
